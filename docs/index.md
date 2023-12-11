@@ -15,10 +15,12 @@ The session will commence with a panel discussion featuring renowned experts in 
 
 ### Panelists
 
-- **[Expert Name 1]** - [Brief bio or affiliation]
-- **[Expert Name 2]** - [Brief bio or affiliation]
-- **[Expert Name 3]** - [Brief bio or affiliation]
-- **[Expert Name 4]** - [Brief bio or affiliation]
+- **James Sanovia** - [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/our-team) - [AGU Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1422491)
+- **Amy E Goldman** - [Pacific Nortwest National Laboratory](https://www.pnnl.gov/people/amy-goldman) - [AGU Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1423556)
+- **Aiya Lindquist** - [Science Systems and Applications, Inc.](https://science.gsfc.nasa.gov/sci/bio/ayia.f.lindquist) - [AGU Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1245282)
+- **Meghan Halabisky** - [Digital Earth Africa](https://www.digitalearthafrica.org/about-us/governance/technical-advisory-committee/dr-meghan-halabisky) - [AGU Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1434512)
+- **David Schimel** - [NASA Jet Propulsion Lab](https://science.jpl.nasa.gov/people/schimel/) - [AGU Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1298463)
+- **Aimee Barciauskas** - [Development Seed](https://developmentseed.org/team/aimee-barciauskas) - [AGU Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1282183)
 
 ### Discussion Topics
 
