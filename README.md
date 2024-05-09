@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/727956462.svg)](https://zenodo.org/doi/10.5281/zenodo.11167856)
+
 # Maximizing Stakeholder Engagement in Open Environmental Data Science
 
 ## Overview
